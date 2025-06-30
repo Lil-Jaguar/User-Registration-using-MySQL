@@ -14,4 +14,4 @@ database named test inside your phpMyAdmin panel..
 
 
 
-////////Thank You //////
+////////Thank You ////// 
